@@ -1,0 +1,124 @@
+{
+  "settings": {
+    "ui": {
+      "dialogs": {
+        "notice": {
+          "shouldPrompt": false,
+          "title": "install app",
+          "positiveBtn": "accept",
+          "link": {
+            "isPlayStore": true,
+            "link": "https://"
+          },
+          "countries": [
+            "iran",
+            "iraq",
+            "turkey"
+          ]
+        },
+        "updates": {
+          "isForce": false,
+          "title": "New version available. Fix crashes on some devices,New UI,Improved connectivity,App speedup\\n",
+          "title_fa": "لطفا به روز رسانی کنید",
+          "positiveBtn": "accept",
+          "link": {
+            "isPlayStore": true,
+            "link": "https://"
+          }
+        },
+        "rate": {
+          "title": "please give us 5 star",
+          "positiveBtn": "sure!",
+          "link": "https://",
+          "index": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ]
+        },
+        "share": {
+          "title": "share us with your family",
+          "positiveBtn": "share!",
+          "link": {
+            "isPlayStore": true,
+            "link": "https://"
+          }
+        }
+      },
+      "styles": {
+        "isDark": false
+      },
+      "statements": {
+        "splashPrompt": "welcome",
+        "connectPrompt": "tap to connectBtn",
+        "adServerNotification": "connected to fetching data..."
+      }
+    },
+    "timeout": {
+      "splashData": 10000,
+      "adServerConnectionDelay": 5000,
+      "NormalConnectionDelay": 8000,
+      "admobLoading": 25000,
+      "forceDisconnectIntervalMillis": 7200000,
+      "connectionDuration": "HH:MM:SS"
+    },
+    "retryTime": {
+      "splashData": 3,
+      "adServerConnectionDelay": 3,
+      "NormalConnectionDelay": 3
+    },
+    "admob": {
+      "appId": "ca-app-pub-3940256099942544/6300978111",
+      "isActive": false,
+      "isConsent": false,
+      "isConsentInConnected": false,
+      "units": {
+        "unit1": "ca-app-pub-3940256099942544/6300978111",
+        "unit2": "ca-app-pub-3940256099942544/6300978111",
+        "unit3": "ca-app-pub-3940256099942544/6300978111",
+        "unit4": "ca-app-pub-3940256099942544/6300978111"
+      }
+    },
+    "version": {
+      "gPlayStoreVersionName": "1.0.0",
+      "gPlayStoreVersionCode": 1,
+      "applicationPackageName": "com.package.name"
+    },
+    "general": {
+      "isDebugDevice": false,
+      "isAdServerAllowed": false,
+      "isLogConnectionAllowed": false,
+      "isCheckConnectionAllowed": true,
+      "isForceDisconnectAllowed": false,
+      "gPlayStoreLink": "https://play.google.com/store/apps",
+      "directDownloadLink": "https://www.google.com/generate_204",
+      "connectionDelayLink": "https://www.google.com/generate_204",
+      "ipLink": "http://ip-api.com/json",
+      "UTC": "2020-01-01T00:00:00.000Z"
+    }
+  },
+  "Configurations": {
+    "serverConfigData": [
+      {
+        "priority": 0,
+        "isp": "default",
+        "serverConfig": "vless:**",
+        "serverConfigCode": "1234567890dddsss",
+        "serverConfigName": "US0018000",
+        "serverCountryCode": "US",
+        "serverCountryName": "United_States"
+      },
+      {
+        "priority": 1,
+        "isp": "default",
+        "serverConfig": "vless:**",
+        "serverConfigCode": "5534567890dddsss",
+        "serverConfigName": "FN0018000",
+        "serverCountryCode": "FN",
+        "serverCountryName": "Finland"
+      }
+    ]
+  }
+}
