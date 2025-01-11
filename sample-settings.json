@@ -95,6 +95,7 @@
       "gPlayStoreLink": "https://play.google.com/store/apps",
       "directDownloadLink": "https://www.google.com/generate_204",
       "connectionDelayLink": "https://www.google.com/generate_204",
+      "disallowedPackages":["com.df.fd","com.grt.gf","org.goo.gf"]
       "ipLink": "http://ip-api.com/json",
       "UTC": "2020-01-01T00:00:00.000Z"
     }
