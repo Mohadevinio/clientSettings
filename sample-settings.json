@@ -91,7 +91,7 @@
       "isAdServerAllowed": false,
       "isLogConnectionAllowed": false,
       "isCheckConnectionAllowed": true,
-      "isForceDisconnectAllowed": false,
+      "isForceDisconnectAllowed": true,
       "gPlayStoreLink": "https://play.google.com/store/apps",
       "directDownloadLink": "https://www.google.com/generate_204",
       "connectionDelayLink": "https://www.google.com/generate_204",
