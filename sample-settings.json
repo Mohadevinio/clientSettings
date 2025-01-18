@@ -42,11 +42,11 @@
         },
         "share": {
           "shouldPrompt": true,
-          "title": "share us with your family",
-          "positiveBtn": "share!",
+          "title": "",
+          "positiveBtn": "Share",
           "link": {
             "isPlayStore": true,
-            "link": "https://"
+            "link": ""
           }
         }
       },
