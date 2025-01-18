@@ -61,8 +61,8 @@
       "adServerConnectionDelay": 5000,
       "NormalConnectionDelay": 8000,
       "admobLoading": 25000,
-      "forceDisconnectIntervalMillis": 60000,
-      "connectionDuration": "00:01:00"
+      "forceDisconnectIntervalMillis": 25000,
+      "connectionDuration": "00:05:00"
     },
     "retryTime": {
       "splashData": 3,
