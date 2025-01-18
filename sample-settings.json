@@ -17,6 +17,7 @@
           ]
         },
         "updates": {
+          "shouldPrompt": false,
           "isForce": false,
           "title": "New version available. Fix crashes on some devices,New UI,Improved connectivity,App speedup\\n",
           "title_fa": "لطفا به روز رسانی کنید",
@@ -27,6 +28,7 @@
           }
         },
         "rate": {
+          "shouldPrompt": false,
           "title": "please give us 5 star",
           "positiveBtn": "sure!",
           "link": "https://",
@@ -39,6 +41,7 @@
           ]
         },
         "share": {
+          "shouldPrompt": false,
           "title": "share us with your family",
           "positiveBtn": "share!",
           "link": {
