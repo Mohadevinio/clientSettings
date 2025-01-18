@@ -41,7 +41,7 @@
           ]
         },
         "share": {
-          "shouldPrompt": false,
+          "shouldPrompt": true,
           "title": "share us with your family",
           "positiveBtn": "share!",
           "link": {
