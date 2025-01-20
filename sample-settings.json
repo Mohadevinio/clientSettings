@@ -47,8 +47,8 @@
         "isDark": false
       },
       "statements": {
-        "splashPrompt": "welcome",
-        "connectPrompt": "tap to connectBtn",
+        "splashPrompt": "",
+        "connectPrompt": "tap to connect or disconnect",
         "adServerNotification": "connected to fetching data..."
       }
     },
