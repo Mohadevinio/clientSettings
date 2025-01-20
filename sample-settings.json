@@ -28,9 +28,9 @@
         },
         "rate": {
           "shouldPrompt": true,
-          "title": "please give us 5 star",
+          "title": "",
           "positiveBtn": "sure!",
-          "link": "https://",
+          "message": "",
           "index": [
             1,
             2,
