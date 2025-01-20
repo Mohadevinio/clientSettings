@@ -28,10 +28,10 @@
         },
         "rate": {
           "shouldPrompt": true,
-          "title": "",
+          "title": "Please support us with a 5-start rating in play store :)",
           "positiveBtn": "Sure!",
           "message": "",
-          "index": []
+          "index": [1,2,3,4,5,6,7]
         },
         "share": {
           "shouldPrompt": true,
