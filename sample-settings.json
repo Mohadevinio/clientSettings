@@ -27,7 +27,7 @@
           }
         },
         "rate": {
-          "shouldPrompt": false,
+          "shouldPrompt": true,
           "title": "",
           "positiveBtn": "Sure!",
           "message": "",
