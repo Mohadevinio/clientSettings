@@ -31,13 +31,7 @@
           "title": "",
           "positiveBtn": "sure!",
           "message": "",
-          "index": [
-            1,
-            2,
-            3,
-            4,
-            5
-          ]
+          "index": []
         },
         "share": {
           "shouldPrompt": true,
