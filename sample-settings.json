@@ -28,9 +28,9 @@
         },
         "rate": {
           "shouldPrompt": true,
-          "title": "Please support us with a 5-start rating in play store :)",
+          "title": "Rate Us",
           "positiveBtn": "Sure!",
-          "message": "",
+          "message": "Please support us with a 5-start rating in play store :)",
           "index": [1,2,3,4,5,6,7]
         },
         "share": {
