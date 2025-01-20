@@ -27,7 +27,7 @@
           }
         },
         "rate": {
-          "shouldPrompt": false,
+          "shouldPrompt": true,
           "title": "please give us 5 star",
           "positiveBtn": "sure!",
           "link": "https://",
