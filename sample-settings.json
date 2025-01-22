@@ -66,8 +66,8 @@
       "NormalConnectionDelay": 3
     },
     "admob": {
-      "appId": "ca-app-pub-3940256099942544/6300978111",
-      "isActive": false,
+      "appId": "ca-app-pub-3940256099942544~3347511713",
+      "isActive": true,
       "isConsent": false,
       "isConsentInConnected": false,
       "units": {
