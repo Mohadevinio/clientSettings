@@ -67,7 +67,7 @@
     },
     "admob": {
       "appId": "",
-      "isActive": true,
+      "isActive": false,
       "isConsent": false,
       "isConsentInConnected": false,
       "units": {
