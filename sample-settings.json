@@ -110,7 +110,7 @@
       {
         "priority": 1,
         "isp": "default",
-        "serverConfig": "vless://df0680ca-e43c-498d-ed86-8e196eedd012@37.27.180.212:8880?encryption=none&security=none&type=grpc#Default-Irancell-Rightel",
+        "serverConfig": "vless://bfd35289-e262-4678-8e7f-94ab68f7d0d9@speedtest.org:443?security=tls&sni=123.dashtomashbashsheshe.info&alpn=h3,h2,http/1.1&fp=chrome&type=ws&path=/ws&host=123.dashtomashbashsheshe.info&encryption=none#test-3wvk05sh",
         "serverConfigCode": "5534567890dddsss",
         "serverConfigName": "FN0018000",
         "serverCountryCode": "FN",
