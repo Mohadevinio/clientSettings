@@ -47,9 +47,9 @@
         "isDark": false
       },
       "statements": {
-        "splashPrompt": "",
-        "connectPrompt": "tap to connect or disconnect",
-        "adServerNotification": "connected to fetching data..."
+        "splashPrompt": "Fast , Free and Reliable",
+        "connectPrompt": "Tap to Connect or Disconnect",
+        "adServerNotification": "Connected to fetching data..."
       }
     },
     "timeout": {
