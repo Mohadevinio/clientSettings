@@ -84,7 +84,7 @@
     },
     "general": {
       "isDebugDevice": false,
-      "isAdServerAllowed": false,
+      "isAdServerAllowed": true,
       "isLogConnectionAllowed": true,
       "isCheckConnectionAllowed": true,
       "isForceDisconnectAllowed": true,
