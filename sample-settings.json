@@ -53,8 +53,8 @@
       }
     },
     "timeout": {
-      "splashData": 10000,
-      "adServerConnectionDelay": 5000,
+      "splashData": 15000,
+      "adServerConnectionDelay": 3500,
       "NormalConnectionDelay": 8000,
       "admobLoading": 30000,
       "forceDisconnectIntervalMillis": 1800000,
@@ -67,7 +67,7 @@
     },
     "admob": {
       "appId": "",
-      "isActive": false,
+      "isActive": true,
       "isConsent": false,
       "isConsentInConnected": false,
       "units": {
