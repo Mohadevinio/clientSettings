@@ -68,7 +68,7 @@
     "admob": {
       "appId": "",
       "isActive": false,
-      "isConsent": false,
+      "isConsent": true,
       "isConsentInConnected": true,
       "units": {
         "unit1": "ca-app-pub-3940256099942544/8691691433",
