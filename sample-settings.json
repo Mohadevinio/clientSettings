@@ -17,8 +17,8 @@
         },
         "updates": {
           "shouldPrompt": true,
-          "isForce": false,
-          "title": "New version available. Fix crashes on some devices,New UI,Improved connectivity,App speedup\\n",
+          "isForce": true,
+          "title": "New version available. Fix crashes on some devices,New UI,Improved connectivity,App speedup",
           "title_fa": "لطفا به روز رسانی کنید",
           "positiveBtn": "accept",
           "link": {
