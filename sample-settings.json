@@ -23,7 +23,7 @@
           "positiveBtn": "accept",
           "link": {
             "isPlayStore": true,
-            "link": "https://"
+            "link": null
           }
         },
         "rate": {
