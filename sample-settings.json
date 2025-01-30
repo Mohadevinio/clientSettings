@@ -16,7 +16,7 @@
           ]
         },
         "updates": {
-          "shouldPrompt": false,
+          "shouldPrompt": true,
           "isForce": false,
           "title": "New version available. Fix crashes on some devices,New UI,Improved connectivity,App speedup\\n",
           "title_fa": "لطفا به روز رسانی کنید",
@@ -79,7 +79,7 @@
     },
     "version": {
       "gPlayStoreVersionName": "1.0.0",
-      "gPlayStoreVersionCode": 1,
+      "gPlayStoreVersionCode": 2,
       "applicationPackageName": "com.package.name"
     },
     "general": {
