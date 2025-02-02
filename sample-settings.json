@@ -101,8 +101,8 @@
       {
         "priority": 0,
         "isp": "default",
-        "serverConfig": "vless://bfd35289-e262-4678-8e7f-94ab68f7d0d9@speedtest.org:443?encryption=none&security=tls&sni=123.dashtomashbashsheshe.info&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&type=ws&host=123.dashtomashbashsheshe.info&path=%2Fws#test-3wvk05sh",
-        "serverConfigCode": "1234567890dddsss",
+        "serverConfig": "iVI0a5Qya1o52GBA9QZa7WxQ6xjHvmBM/rzNCrwxQKyEbNRGRsSyyhaJdWLwqmOkKAFlo4+L/SdztIawNG6yJWFmCPJuyCSrH3Uc6FSK1RhyCo2Y88NbvvlE6vOd8GV2MY/lnU85gGTG+qSEof8HUpM3HoF4tvNhl284L2lZFT94b1bPLIraAAW+VPjiHNsfhYg8AEyQYvPymYGPaotWnAlOdqo3aHisu1AX6fqQ1vgVnj8HuqhrktOQIxQmUjt0RcbSuFQDa4Z1nM3q2/VzpGw2/JcjgzK4OnLFoAtT+nwiMQvR9Oe/hcCeKqn5meX5",
+        "serverConfigCode": "",
         "serverConfigName": "US0018000",
         "serverCountryCode": "US",
         "serverCountryName": "United_States"
@@ -110,8 +110,8 @@
       {
         "priority": 1,
         "isp": "default",
-        "serverConfig": "vless://bfd35289-e262-4678-8e7f-94ab68f7d0d9@speedtest.org:443?security=tls&sni=123.dashtomashbashsheshe.info&alpn=h3,h2,http/1.1&fp=chrome&type=ws&path=/ws&host=123.dashtomashbashsheshe.info&encryption=none#test-3wvk05sh",
-        "serverConfigCode": "5534567890dddsss",
+        "serverConfig": "iVI0a5Qya1o52GBA9QZa7WxQ6xjHvmBM/rzNCrwxQKyEbNRGRsSyyhaJdWLwqmOkKAFlo4+L/SdztIawNG6yJWFmCPJuyCSrH3Uc6FSK1RhyCo2Y88NbvvlE6vOd8GV2MY/lnU85gGTG+qSEof8HUpM3HoF4tvNhl284L2lZFT94b1bPLIraAAW+VPjiHNsfhYg8AEyQYvPymYGPaotWnAlOdqo3aHisu1AX6fqQ1vgVnj8HuqhrktOQIxQmUjt0RcbSuFQDa4Z1nM3q2/VzpGw2/JcjgzK4OnLFoAtT+nwiMQvR9Oe/hcCeKqn5meX5",
+        "serverConfigCode": "",
         "serverConfigName": "FN0018000",
         "serverCountryCode": "FN",
         "serverCountryName": "Finland"
