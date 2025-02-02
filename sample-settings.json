@@ -58,7 +58,7 @@
       "NormalConnectionDelay": 8000,
       "admobLoading": 30000,
       "forceDisconnectIntervalMillis": 1800000,
-      "connectionDuration": "00:00:45"
+      "connectionDuration": "00:30:00"
     },
     "retryTime": {
       "splashData": 3,
@@ -101,8 +101,8 @@
       {
         "priority": 0,
         "isp": "default",
-        "serverConfig": "LfBwCihx37VOxUtZjmV/UBJ3qjsEPBS8+cjwET+5cscVpJj8JkhxhbXT8gqJ+H6NlfD8xO/4rkmoeuWOdCSj1T7C47GBSa36l6z5FLskKeYx2mE/5tsoQfJreWRGKK2sL0ybiR+htKRGMlbYv6d3in5Csjm07SqadpgV8G/3p6TzgKP2LpqDby7+P8aSwmrQlNoj7dgiLVUiUlnskgtHKVRsQH22jp1I0PwzkTbDxubokbsjBgKRaceBoUNCzwRiPw8kHgMhHbmFscj0cXqFgnqJd2hVeK4b1JaB1VOWP6Y=",
-        "serverConfigCode": "",
+        "serverConfig": "XJ9VAuYDdhv+kvZ65ebLCjcpok5cST6NXEfMHVu4dvNs42z4ijX8kdUSNAucml2SYGopRrIOz7OQNvwFpM/RmpstRieDtnFpcWfUFVXO3as8C/wKWYrpoDAhysnQ7SCzB2J18cDqxiIo9646S/srh1CKFNEjohy7Ni9L+weoNVkPqu9dn6mAtivX+gamsFJugchrIg1jBoefF1W06hjHkoMj+2yLdR+O0N6uGfImKAxoMrjyatndP8VatMAI0qr+7mLSs28kGHNxsKsytHKMsp7vaH7OBjjM4lc3INgEVD8=",
+        "serverConfigCode": "2xiawSJ9XkpFHfwq",
         "serverConfigName": "US0018000",
         "serverCountryCode": "US",
         "serverCountryName": "United_States"
@@ -110,8 +110,8 @@
       {
         "priority": 1,
         "isp": "default",
-        "serverConfig": "LfBwCihx37VOxUtZjmV/UBJ3qjsEPBS8+cjwET+5cscVpJj8JkhxhbXT8gqJ+H6NlfD8xO/4rkmoeuWOdCSj1T7C47GBSa36l6z5FLskKeYx2mE/5tsoQfJreWRGKK2sL0ybiR+htKRGMlbYv6d3in5Csjm07SqadpgV8G/3p6TzgKP2LpqDby7+P8aSwmrQlNoj7dgiLVUiUlnskgtHKVRsQH22jp1I0PwzkTbDxubokbsjBgKRaceBoUNCzwRiPw8kHgMhHbmFscj0cXqFgnqJd2hVeK4b1JaB1VOWP6Y=",
-        "serverConfigCode": "",
+        "serverConfig": "XJ9VAuYDdhv+kvZ65ebLCjcpok5cST6NXEfMHVu4dvNs42z4ijX8kdUSNAucml2SYGopRrIOz7OQNvwFpM/RmpstRieDtnFpcWfUFVXO3as8C/wKWYrpoDAhysnQ7SCzB2J18cDqxiIo9646S/srh1CKFNEjohy7Ni9L+weoNVkPqu9dn6mAtivX+gamsFJugchrIg1jBoefF1W06hjHkoMj+2yLdR+O0N6uGfImKAxoMrjyatndP8VatMAI0qr+7mLSs28kGHNxsKsytHKMsp7vaH7OBjjM4lc3INgEVD8=",
+        "serverConfigCode": "2xiawSJ9XkpFHfwq",
         "serverConfigName": "FN0018000",
         "serverCountryCode": "FN",
         "serverCountryName": "Finland"
